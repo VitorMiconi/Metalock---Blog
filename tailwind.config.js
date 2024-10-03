@@ -11,6 +11,7 @@ module.exports = {
         azul: '#0066cc',
         verde: '#00a204',
         cinza: '#7c7b7b',
+        cinzaclaro: '#f4f5f8',
       },
     },
   },
